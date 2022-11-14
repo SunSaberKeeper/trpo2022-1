@@ -1,2 +1,2 @@
 Hello GitHub!!!
-SSK добавился в репозиторий!
+SSK добавился в repository!
